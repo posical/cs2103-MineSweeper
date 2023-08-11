@@ -1,8 +1,6 @@
 /** 
  * CS2103 Coding Exercise 1 Special Semester 1
  * File:   GameState.h
- * Author: Kenneth Pan (U090283H)
- * Email: u0900283@nus.edu.sg
  * 
  * There are SIX files for this project.
  * main.cpp, Mine.h, GameBox.cpp, GameBox.h, GameState.cpp, GameState.h
